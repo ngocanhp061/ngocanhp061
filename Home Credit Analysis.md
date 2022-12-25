@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Note:
 
-Link of the code: https://github.com/ngocanhp061/ProjectPortfolio/blob/main/Project%204%20%20Home%20Credit%20Risk%20prediction.ipynb
+Link of the code: [https://github.com/ngocanhp061/ProjectPortfolio/blob/main/Project%204%20%20Home%20Credit%20Risk%20prediction.ipynb](https://github.com/ngocanhp061/ProjectPortfolio/blob/611f2ac01760dcdf7eaaf3303cca66cfb12e8821/Project%204%20-%20Home%20Credit%20Risk%20prediction.ipynb)
 
 Home Credit is a leading mass market consumer finance provider.
 
